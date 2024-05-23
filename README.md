@@ -38,4 +38,8 @@ AI聊天问诊 (chatthymeleaf-test-master) 仓库为：[AI-Chat-Consultation](ht
 
 <br>
 
-4. 两个项目正常启动后，浏览器运行 http://localhost:8080/his/
+4. 两个项目正常启动后，浏览器进入 http://localhost:8080/his/
+
+<br>
+
+5. 以用户名和密码均为admin登录，即可正常操作系统。
