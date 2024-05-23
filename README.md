@@ -10,7 +10,7 @@
 
 **本仓库仅含医院管理系统 (his) 。**
 
-AI聊天问诊 (chatthymeleaf-test-master) 仓库为：https://github.com/fang-kun/AI-Chat-Consultation
+AI聊天问诊 (chatthymeleaf-test-master) 仓库为：[AI-Chat-Consultation](https://github.com/fang-kun/AI-Chat-Consultation)
 
 <br>
 
@@ -30,7 +30,7 @@ AI聊天问诊 (chatthymeleaf-test-master) 仓库为：https://github.com/fang-k
 
 2. 配置 his 项目。在Idea中配置 Tomcat，选择自己下载好Tomcat的本地路径进行配置。确保Tomcat的配置中的Deployment正确导入了his项目（如下图），启动Tomcat。
 
-![image-20240523171126824](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20240523171126824.png)
+![](D:\IdeaProjects\his\WebRoot\Images\mdPic.jpg)
 
 <br>
 
